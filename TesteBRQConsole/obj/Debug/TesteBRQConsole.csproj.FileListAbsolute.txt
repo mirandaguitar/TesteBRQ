@@ -1,0 +1,7 @@
+C:\Users\miran\source\repos\TesteBRQConsole\bin\Debug\TesteBRQConsole.exe.config
+C:\Users\miran\source\repos\TesteBRQConsole\bin\Debug\TesteBRQConsole.exe
+C:\Users\miran\source\repos\TesteBRQConsole\bin\Debug\TesteBRQConsole.pdb
+C:\Users\miran\source\repos\TesteBRQConsole\obj\Debug\TesteBRQConsole.csprojAssemblyReference.cache
+C:\Users\miran\source\repos\TesteBRQConsole\obj\Debug\TesteBRQConsole.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\TesteBRQConsole\obj\Debug\TesteBRQConsole.exe
+C:\Users\miran\source\repos\TesteBRQConsole\obj\Debug\TesteBRQConsole.pdb
